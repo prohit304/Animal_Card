@@ -1,3 +1,3 @@
 # Animal_Card
 
-![Animal_Card](Original.png?raw=true "Bengal Tiger")
+![Animal_Card](Animal.png?raw=true "Bengal Tiger")
